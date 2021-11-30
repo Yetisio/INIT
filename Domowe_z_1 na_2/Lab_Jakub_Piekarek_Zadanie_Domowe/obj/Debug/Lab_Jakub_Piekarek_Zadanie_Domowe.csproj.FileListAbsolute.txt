@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\INIT\Domowe z 1 na 2\Lab_Jakub_Piekarek_Zadanie_Domowe\bin\Debug\Lab_Jakub_Piekarek_Zadanie_Domowe.exe.config
+C:\Users\Admin\Desktop\INIT\Domowe z 1 na 2\Lab_Jakub_Piekarek_Zadanie_Domowe\bin\Debug\Lab_Jakub_Piekarek_Zadanie_Domowe.exe
+C:\Users\Admin\Desktop\INIT\Domowe z 1 na 2\Lab_Jakub_Piekarek_Zadanie_Domowe\bin\Debug\Lab_Jakub_Piekarek_Zadanie_Domowe.pdb
+C:\Users\Admin\Desktop\INIT\Domowe z 1 na 2\Lab_Jakub_Piekarek_Zadanie_Domowe\obj\Debug\Lab_Jakub_Piekarek_Zadanie_Domowe.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\INIT\Domowe z 1 na 2\Lab_Jakub_Piekarek_Zadanie_Domowe\obj\Debug\Lab_Jakub_Piekarek_Zadanie_Domowe.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\INIT\Domowe z 1 na 2\Lab_Jakub_Piekarek_Zadanie_Domowe\obj\Debug\Lab_Jakub_Piekarek_Zadanie_Domowe.exe
+C:\Users\Admin\Desktop\INIT\Domowe z 1 na 2\Lab_Jakub_Piekarek_Zadanie_Domowe\obj\Debug\Lab_Jakub_Piekarek_Zadanie_Domowe.pdb

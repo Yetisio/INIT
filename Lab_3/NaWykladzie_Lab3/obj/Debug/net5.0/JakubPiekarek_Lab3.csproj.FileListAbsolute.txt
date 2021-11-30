@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\bin\Debug\net5.0\JakubPiekarek_Lab3.exe
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\bin\Debug\net5.0\JakubPiekarek_Lab3.deps.json
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\bin\Debug\net5.0\JakubPiekarek_Lab3.runtimeconfig.json
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\bin\Debug\net5.0\JakubPiekarek_Lab3.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\bin\Debug\net5.0\JakubPiekarek_Lab3.dll
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\bin\Debug\net5.0\ref\JakubPiekarek_Lab3.dll
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\bin\Debug\net5.0\JakubPiekarek_Lab3.pdb
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\obj\Debug\net5.0\JakubPiekarek_Lab3.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\obj\Debug\net5.0\JakubPiekarek_Lab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\obj\Debug\net5.0\JakubPiekarek_Lab3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\obj\Debug\net5.0\JakubPiekarek_Lab3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\obj\Debug\net5.0\JakubPiekarek_Lab3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\obj\Debug\net5.0\JakubPiekarek_Lab3.dll
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\obj\Debug\net5.0\ref\JakubPiekarek_Lab3.dll
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\obj\Debug\net5.0\JakubPiekarek_Lab3.pdb
+C:\Users\Admin\Desktop\INIT\Lab 3\JakubPiekarek_Lab3\obj\Debug\net5.0\JakubPiekarek_Lab3.genruntimeconfig.cache

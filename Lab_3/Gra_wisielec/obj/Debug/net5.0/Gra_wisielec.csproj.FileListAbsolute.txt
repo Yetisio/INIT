@@ -1,0 +1,32 @@
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\bin\Debug\net5.0\Gra_wisielec.exe
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\bin\Debug\net5.0\Gra_wisielec.deps.json
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\bin\Debug\net5.0\Gra_wisielec.runtimeconfig.json
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\bin\Debug\net5.0\Gra_wisielec.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\bin\Debug\net5.0\Gra_wisielec.dll
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\bin\Debug\net5.0\ref\Gra_wisielec.dll
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\bin\Debug\net5.0\Gra_wisielec.pdb
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.AssemblyInfo.cs
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.dll
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\obj\Debug\net5.0\ref\Gra_wisielec.dll
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.pdb
+C:\Users\Admin\Desktop\INIT\Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\bin\Debug\net5.0\Gra_wisielec.exe
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\bin\Debug\net5.0\Gra_wisielec.deps.json
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\bin\Debug\net5.0\Gra_wisielec.runtimeconfig.json
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\bin\Debug\net5.0\Gra_wisielec.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\bin\Debug\net5.0\Gra_wisielec.dll
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\bin\Debug\net5.0\ref\Gra_wisielec.dll
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\bin\Debug\net5.0\Gra_wisielec.pdb
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.dll
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\obj\Debug\net5.0\ref\Gra_wisielec.dll
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.pdb
+C:\Users\Lenovo\Desktop\kurs\Gra wisielec Lab 3\Gra_wisielec\obj\Debug\net5.0\Gra_wisielec.genruntimeconfig.cache

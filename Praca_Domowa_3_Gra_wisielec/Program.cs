@@ -57,7 +57,7 @@ namespace Gra_wisielec
 
 
                 //proba zgadniecia
-                Console.WriteLine("\nPodaj litere, do zgadniecia hasla: ");
+                Console.WriteLine("\nPodaj LITERE, do zgadniecia hasla: ");
                 char litera = char.Parse(Console.ReadLine());
                 litery_prob.Add(litera);
 
@@ -82,13 +82,17 @@ namespace Gra_wisielec
                     {
                         for (int j = 0; j < tablica.Length; j++)
                         {
-
                             blurowanie[i] = litera;
 
                         }
-                        warunek_petla++;
-                    }
+                        if(litera == blurowanie[i])
+                        {
+                            continue;
+                        }
+                        else
+                            warunek_petla++;
 
+                    }
                 }
 
 
@@ -183,7 +187,7 @@ namespace Gra_wisielec
             if (warunek_petla == tablica.Length)
                 Console.WriteLine("Koniec gry, UDALO CI SIE !\nTwoim haslem bylo {0}", losowe_haslo);
             else
-                Console.WriteLine("Koniec gry, NIESTETY NIE UDALO CI SIE !\nTwoim haslem bylo {0}", losowe_haslo);
+                Console.WriteLine("Koniec gry, NIESTETY NIE UDALO CI SIE !\nTwoim haslem bylo: {0}", losowe_haslo);
         }
     }
 }

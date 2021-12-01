@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Admin\\Desktop\\INIT\\Lab 3\\Gra_wisielec\\Gra_wisielec.csproj": {}
+    "C:\\Users\\Admin\\Desktop\\INIT\\Praca_Domowa_3_Gra_wisielec\\Gra_wisielec.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Admin\\Desktop\\INIT\\Lab 3\\Gra_wisielec\\Gra_wisielec.csproj": {
+    "C:\\Users\\Admin\\Desktop\\INIT\\Praca_Domowa_3_Gra_wisielec\\Gra_wisielec.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\INIT\\Lab 3\\Gra_wisielec\\Gra_wisielec.csproj",
+        "projectUniqueName": "C:\\Users\\Admin\\Desktop\\INIT\\Praca_Domowa_3_Gra_wisielec\\Gra_wisielec.csproj",
         "projectName": "Gra_wisielec",
-        "projectPath": "C:\\Users\\Admin\\Desktop\\INIT\\Lab 3\\Gra_wisielec\\Gra_wisielec.csproj",
+        "projectPath": "C:\\Users\\Admin\\Desktop\\INIT\\Praca_Domowa_3_Gra_wisielec\\Gra_wisielec.csproj",
         "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Admin\\Desktop\\INIT\\Lab 3\\Gra_wisielec\\obj\\",
+        "outputPath": "C:\\Users\\Admin\\Desktop\\INIT\\Praca_Domowa_3_Gra_wisielec\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",

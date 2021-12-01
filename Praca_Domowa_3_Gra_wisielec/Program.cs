@@ -30,6 +30,8 @@ namespace Gra_wisielec
             string losowe_haslo = marki_samochodow[r.Next(marki_samochodow.Count)]; //przypisanie losowego elementu z listy do stringa
             List<char> litery_hasla = new List<char>(); //dodanie listy z literami hasla
             char[] tablica = losowe_haslo.ToCharArray(); //przypisanie stringa do tablicy charowej
+
+
             //przypisanie liter do tablicy i dodanie ich do listy
             for (int i = 0; i < tablica.Length; i++)
             {
@@ -52,6 +54,8 @@ namespace Gra_wisielec
             do
             {
                 Console.WriteLine(blurowanie);
+
+
                 //proba zgadniecia
                 Console.WriteLine("\nPodaj litere, do zgadniecia hasla: ");
                 char litera = char.Parse(Console.ReadLine());
@@ -86,24 +90,26 @@ namespace Gra_wisielec
                     }
 
                 }
-                //pudlo
-                
 
+
+                //pudlo
                 if (sprawdzanie == false)
                 {
                     zycia--;
                 }
-                Console.Clear();
-                //rysowanie warunki
-                
 
+
+                Console.Clear();
+
+
+                //rysowanie warunki
                 if (zycia == 9)
                 {
-                    rys[0, 5] = '(';
+                    rys[0, 5] = '/';
                 }
                 if (zycia == 8)
                 {
-                    rys[1, 5] = ')';
+                    rys[1, 5] = '\\';
                 }
                 if (zycia == 7)
                 {
@@ -151,16 +157,16 @@ namespace Gra_wisielec
                 }
                 if (zycia == 1)
                 {
-                    rys[5, 3] = ')';
+                    rys[5, 3] = '\\';
                 }
                 if (zycia == 0)
                 { 
                     rys[4, 4] = '^';
                     
                 }
+
+
                 //pokazywanie rysowania
-
-
                 for(int w = 0; w < 6; w++)
                 {
                     for (int k = 0; k < 6; k++)
@@ -169,7 +175,11 @@ namespace Gra_wisielec
                     }
                     Console.WriteLine();
                 }
+
+
             } while (zycia > 0 && warunek_petla<tablica.Length);
+
+
             if (warunek_petla == tablica.Length)
                 Console.WriteLine("Koniec gry, UDALO CI SIE !\nTwoim haslem bylo {0}", losowe_haslo);
             else

@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\obj\Debug\net5.0\Funkcje_Ocena_Podatek.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\obj\Debug\net5.0\Funkcje_Ocena_Podatek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\obj\Debug\net5.0\Funkcje_Ocena_Podatek.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\obj\Debug\net5.0\Funkcje_Ocena_Podatek.AssemblyInfo.cs
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\obj\Debug\net5.0\Funkcje_Ocena_Podatek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\bin\Debug\net5.0\Funkcje_Ocena_Podatek.exe
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\bin\Debug\net5.0\Funkcje_Ocena_Podatek.deps.json
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\bin\Debug\net5.0\Funkcje_Ocena_Podatek.runtimeconfig.json
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\bin\Debug\net5.0\Funkcje_Ocena_Podatek.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\bin\Debug\net5.0\Funkcje_Ocena_Podatek.dll
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\bin\Debug\net5.0\ref\Funkcje_Ocena_Podatek.dll
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\bin\Debug\net5.0\Funkcje_Ocena_Podatek.pdb
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\obj\Debug\net5.0\Funkcje_Ocena_Podatek.dll
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\obj\Debug\net5.0\ref\Funkcje_Ocena_Podatek.dll
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\obj\Debug\net5.0\Funkcje_Ocena_Podatek.pdb
+C:\Users\Admin\Desktop\INIT\Praca_Domowa_4_Funkcje\Funkcje_Ocena_Podatek\obj\Debug\net5.0\Funkcje_Ocena_Podatek.genruntimeconfig.cache

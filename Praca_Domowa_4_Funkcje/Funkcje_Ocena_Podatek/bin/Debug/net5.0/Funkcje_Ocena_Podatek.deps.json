@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Funkcje_Ocena_Podatek/1.0.0": {
+        "runtime": {
+          "Funkcje_Ocena_Podatek.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Funkcje_Ocena_Podatek/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

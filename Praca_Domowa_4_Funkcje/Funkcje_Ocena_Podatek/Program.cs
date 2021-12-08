@@ -40,10 +40,10 @@ namespace Funkcje_Ocena_Podatek
                 Console.WriteLine("Podana została nie prawidłowa wartość, podaj liczbe calkowita !");
             }
         }
-        static int Income_Tax(string income)
+        static double Income_Tax(string income)
         {
-            int proceeds;
-            if (Int32.TryParse(income, out proceeds))
+            double proceeds;
+            if (Double.TryParse(income, out proceeds))
             {
                 if (proceeds < 0)
                 {
@@ -53,15 +53,15 @@ namespace Funkcje_Ocena_Podatek
                 {
                     if (proceeds >= 0 && proceeds <= 85528)
                     {
-                        Console.WriteLine("Twoj podatek dochodowy wynosi: {0}", proceeds * 0.17);
+                        Console.WriteLine("Twoj podatek dochodowy wynosi: {0}\n", proceeds * 0.17);
                     }
                     else if (proceeds > 85528 && proceeds < 1000000)
                     {
-                        Console.WriteLine("Twoj podatek dochodowy wynosi: {0}", proceeds * 0.32);
+                        Console.WriteLine("Twoj podatek dochodowy wynosi: {0}\n", 85528 * 0.17 + (proceeds - 85528) * 0.32);
                     }
                     else if (proceeds >= 1000000)
                     {
-                        Console.WriteLine("Twoj podatek dochodowy wynosi: {0}", proceeds * 0.32 + proceeds * 0.04);
+                        Console.WriteLine("Twoj podatek dochodowy wynosi: {0}\n", 85528 * 0.17 + (999999 - 85528) * 0.32 + (proceeds - 999999) * 0.36);
                     }
                 }
             }
@@ -71,18 +71,57 @@ namespace Funkcje_Ocena_Podatek
             }
             return proceeds;
         }
+        static void Calculator(string first, string second, char char_calculator) 
+        {
+            int firstc, secondc;
+            if (Int32.TryParse(first, out firstc) && Int32.TryParse(second, out secondc))
+            {
+                switch (char_calculator)
+                {
+                    case '+':
+                        Console.WriteLine("\nWynik twojego dzialania dodawania liczb {0} i {1} to {2}", first, second, firstc + secondc);
+                        break;
+                    case '-':
+                        Console.WriteLine("\nWynik twojego dzialania odejmowania liczb {0} i {1} to {2}", first, second, firstc - secondc);
+                        break;
+                    case '*':
+                        Console.WriteLine("\nWynik twojego dzialania mnozenia liczb {0} i {1} to {2}", first, second, firstc * secondc);
+                        break;
+                    case '/':
+                        if (secondc != 0)
+                        {
+                            Console.WriteLine("\nWynik twojego dzialania dzielenia liczb {0} i {1} to {2}", first, second, firstc / secondc);
+                        }
+                        else
+                            Console.WriteLine("\nWynik twojego dzialania dzielenia liczb {0} i {1} nie moze zostac wykonane nie ma dzielenia przez 0", first, second);
+                        break;
+                    default:
+                        Console.WriteLine("\nPODANO NIE PRAWIDLOWY ZNAK DZIALAN DLA KALKULATORA");
+                        break;
+                }
+            }
+            else
+            {
+                Console.WriteLine("\nPodana została nie prawidłowa wartość którejś z liczb, podaj liczby calkowite !");
+            }
+        }
             static void Main(string[] args)
             {
+            
              Console.WriteLine("Podaj liczbe uzyskanych procent z egzaminu:\n");
-
              Exam_Result(Console.ReadLine());
 
 
              Console.WriteLine("Podaj swoj dochod:\n");
-
              Income_Tax(Console.ReadLine());
+            
 
-            }
+            Console.WriteLine("Podaj dwie liczby CALKOWITE do kalkulatora oraz znak jakiego chcesz uzyc dzialania(+, -, *, /):\n");
+            string fnumber = Console.ReadLine();
+            string snumber = Console.ReadLine();
+            char coperation=Console.ReadKey().KeyChar;
+            Calculator(fnumber, snumber, coperation);
+        }
         }
     }
 

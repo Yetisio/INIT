@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\bin\Debug\net5.0\Egzamin_Kredek.exe
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\bin\Debug\net5.0\Egzamin_Kredek.deps.json
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\bin\Debug\net5.0\Egzamin_Kredek.runtimeconfig.json
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\bin\Debug\net5.0\Egzamin_Kredek.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\bin\Debug\net5.0\Egzamin_Kredek.dll
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\bin\Debug\net5.0\ref\Egzamin_Kredek.dll
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\bin\Debug\net5.0\Egzamin_Kredek.pdb
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\obj\Debug\net5.0\Egzamin_Kredek.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\obj\Debug\net5.0\Egzamin_Kredek.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\obj\Debug\net5.0\Egzamin_Kredek.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\obj\Debug\net5.0\Egzamin_Kredek.AssemblyInfo.cs
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\obj\Debug\net5.0\Egzamin_Kredek.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\obj\Debug\net5.0\Egzamin_Kredek.dll
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\obj\Debug\net5.0\ref\Egzamin_Kredek.dll
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\obj\Debug\net5.0\Egzamin_Kredek.pdb
+C:\Users\Admin\Desktop\INIT\Egzamin_Kredek\obj\Debug\net5.0\Egzamin_Kredek.genruntimeconfig.cache

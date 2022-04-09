@@ -1,0 +1,15 @@
+/Users/jakub/Documents/Personal/Kredek/Classes/Object oriented programming/bin/Debug/net5.0/Object oriented programming.deps.json
+/Users/jakub/Documents/Personal/Kredek/Classes/Object oriented programming/bin/Debug/net5.0/Object oriented programming.runtimeconfig.json
+/Users/jakub/Documents/Personal/Kredek/Classes/Object oriented programming/bin/Debug/net5.0/Object oriented programming.runtimeconfig.dev.json
+/Users/jakub/Documents/Personal/Kredek/Classes/Object oriented programming/bin/Debug/net5.0/Object oriented programming.dll
+/Users/jakub/Documents/Personal/Kredek/Classes/Object oriented programming/bin/Debug/net5.0/ref/Object oriented programming.dll
+/Users/jakub/Documents/Personal/Kredek/Classes/Object oriented programming/bin/Debug/net5.0/Object oriented programming.pdb
+/Users/jakub/Documents/Personal/Kredek/Classes/Object oriented programming/obj/Debug/net5.0/Object oriented programming.csprojAssemblyReference.cache
+/Users/jakub/Documents/Personal/Kredek/Classes/Object oriented programming/obj/Debug/net5.0/Object oriented programming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jakub/Documents/Personal/Kredek/Classes/Object oriented programming/obj/Debug/net5.0/Object oriented programming.AssemblyInfoInputs.cache
+/Users/jakub/Documents/Personal/Kredek/Classes/Object oriented programming/obj/Debug/net5.0/Object oriented programming.AssemblyInfo.cs
+/Users/jakub/Documents/Personal/Kredek/Classes/Object oriented programming/obj/Debug/net5.0/Object oriented programming.csproj.CoreCompileInputs.cache
+/Users/jakub/Documents/Personal/Kredek/Classes/Object oriented programming/obj/Debug/net5.0/Object oriented programming.dll
+/Users/jakub/Documents/Personal/Kredek/Classes/Object oriented programming/obj/Debug/net5.0/ref/Object oriented programming.dll
+/Users/jakub/Documents/Personal/Kredek/Classes/Object oriented programming/obj/Debug/net5.0/Object oriented programming.pdb
+/Users/jakub/Documents/Personal/Kredek/Classes/Object oriented programming/obj/Debug/net5.0/Object oriented programming.genruntimeconfig.cache
